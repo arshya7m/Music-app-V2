@@ -1,7 +1,7 @@
 # Music-app-v2
 # Music Streaming App v2
-21f1004769
-arshya moonat
+-made by
+arshya moonat(21f1004769)
 
 ## Getting Started
 
