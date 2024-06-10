@@ -20,10 +20,10 @@ To set up and run the application locally, follow these steps:
 
 Create a virtual environment and activate it:
 
-python -m venv env2
-source env2/bin/activate
+    python -m venv env2
+    source env2/bin/activate
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### Running the Application
     Start the Redis server:
